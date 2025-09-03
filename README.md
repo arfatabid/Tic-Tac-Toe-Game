@@ -27,7 +27,7 @@ Reset button for a new game
 Responsive for mobile and desktop
 
 ## 📂 How to Run
-1. Clone or download this repository
+1. Clone or download this repository: https://github.com/arfatabid/Tic-Tac-Toe-Game.git
 2. Navigate to the desired game folder
 3. Open the `index.html` file in your browser
 4. Enjoy playing 🎉
