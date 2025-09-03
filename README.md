@@ -1,10 +1,4 @@
-# 🎮 HTML, CSS & JavaScript Mini Games
-
-This repository contains two fun and interactive browser games built using **HTML**, **CSS**, and **JavaScript**:  
-🪨📄✂ **Stone Paper Scissors**
-❌⭕ **Tic Tac Toe**
-
-# 🎮 HTML, CSS & JavaScript Mini Games
+# 🎮 HTML, CSS & JavaScript Mini Game
 
 This repository contains two fun and interactive browser games built using **HTML**, **CSS**, and **JavaScript**:  
 🪨📄✂ **Stone Paper Scissors**
