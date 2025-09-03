@@ -1,4 +1,4 @@
-## ❌⭕ Tic Tac Toe Game
+# ❌⭕ Tic Tac Toe Game
 This repository contains two fun and interactive browser games built using **HTML**, **CSS**, and **JavaScript**:  
 ❌⭕ **Tic Tac Toe**
 
