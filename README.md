@@ -1,16 +1,8 @@
-# 🎮 HTML, CSS & JavaScript Mini Game
-
+## ❌⭕ Tic Tac Toe Game
 This repository contains two fun and interactive browser games built using **HTML**, **CSS**, and **JavaScript**:  
-🪨📄✂ **Stone Paper Scissors**
 ❌⭕ **Tic Tac Toe**
 
-### 🚀 How to Play
-1. Choose **Stone**, **Paper**, or **Scissors**
-2. The computer will make its choice
-3. The result will be displayed instantly (**Win, Lose, or Draw**)
-
-## ❌⭕ Tic Tac Toe Game
-
+# 🎮 HTML, CSS & JavaScript Mini Game
 A classic **Tic Tac Toe** game to play against a friend or the computer.
 
 ### ✨ Features
